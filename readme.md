@@ -1,4 +1,4 @@
-```markdown
+
 # Point of Sales System
 
 Sistem ini terdiri dari tiga komponen utama:
