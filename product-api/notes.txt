@@ -1,0 +1,8 @@
+---notes random buat copas---
+
+{
+    "product_name" : "product 1",
+    "product_category" : "category 1",
+    "product_price" : "10000",
+    "product_image" : "-"
+}
